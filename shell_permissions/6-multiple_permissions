@@ -1,2 +1,2 @@
 #!/bin/bash
-My alx repo series
+chmod u+x,g+x,o+r hello
